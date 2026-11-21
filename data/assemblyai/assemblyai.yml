@@ -1,0 +1,13 @@
+name: "AssemblyAI"
+description: "AssemblyAI offers speech-to-text APIs for transcribing audio and video files, including meetings and calls. It provides developer-friendly models for transcription, summarization, and content moderation. Pricing is usage-based with a free trial tier."
+source_url: "https://www.assemblyai.com/"
+category: "Transcription"
+tags:
+  - "api"
+  - "ai-powered"
+  - "paid"
+  - "freemium"
+  - "speech-to-text"
+icon_url: "https://icons.duckduckgo.com/ip3/www.assemblyai.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.assemblyai.com/>\n"
+updated_at: "2026-11-21 00:54"

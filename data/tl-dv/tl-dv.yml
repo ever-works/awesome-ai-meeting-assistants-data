@@ -1,0 +1,13 @@
+name: "tl;dv"
+description: "tl;dv records and transcribes Google Meet and Microsoft Teams meetings, generating AI summaries and timestamps. It serves remote teams needing searchable video meeting libraries. Freemium model with paid plans for unlimited exports and integrations."
+source_url: "https://tldv.io/"
+category: "AI Notetakers"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "free-plan"
+  - "transcription"
+  - "video-conferencing"
+icon_url: "https://icons.duckduckgo.com/ip3/tldv.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://tldv.io/>\n"
+updated_at: "2026-11-21 00:54"

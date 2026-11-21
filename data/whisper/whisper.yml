@@ -1,0 +1,13 @@
+name: "Whisper"
+description: "Whisper is an open-source automatic speech recognition model from OpenAI that transcribes audio in multiple languages. It can be run locally for meeting transcription and translation without cloud APIs. Released under an open-source license."
+source_url: "https://github.com/openai/whisper"
+category: "Open-Source & Local"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "ai-powered"
+  - "speech-to-text"
+  - "transcription"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/openai/whisper>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:54"

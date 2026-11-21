@@ -1,0 +1,12 @@
+- id: ai-notetakers
+  name: "AI Notetakers"
+- id: meeting-bot-apis
+  name: "Meeting Bot APIs"
+- id: transcription
+  name: "Transcription"
+- id: sales-call-intelligence
+  name: "Sales Call Intelligence"
+- id: open-source-and-local
+  name: "Open-Source & Local"
+- id: hardware-recorders
+  name: "Hardware Recorders"

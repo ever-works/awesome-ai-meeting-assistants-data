@@ -1,0 +1,13 @@
+name: "Otter.ai"
+description: "Otter.ai is an AI meeting assistant that transcribes conversations in real time and generates summaries. It serves individuals and teams needing searchable meeting records. Pricing is freemium with paid tiers for advanced features."
+source_url: "https://otter.ai/"
+category: "AI Notetakers"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "transcription"
+icon_url: "https://icons.duckduckgo.com/ip3/otter.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://otter.ai/>\n"
+updated_at: "2026-11-21 00:54"

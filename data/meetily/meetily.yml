@@ -1,0 +1,13 @@
+name: "Meetily"
+description: "Meetily is an open-source, local AI meeting assistant that transcribes audio and generates summaries on-device. It is intended for users who want privacy-focused meeting notes without cloud dependency. The project is freely available under an open-source license."
+source_url: "https://meetily.com/"
+category: "Open-Source & Local"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "local"
+  - "ai-powered"
+  - "transcription"
+icon_url: "https://icons.duckduckgo.com/ip3/meetily.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://meetily.com/>\n- Repository: <https://github.com/meetily/meetily>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:54"

@@ -1,0 +1,52 @@
+- id: ai-powered
+  name: "AI-Powered"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: api
+  name: "API"
+- id: transcription
+  name: "Transcription"
+- id: sales
+  name: "Sales"
+- id: crm
+  name: "CRM"
+- id: paid
+  name: "Paid"
+- id: local
+  name: "Local"
+- id: macos
+  name: "macOS"
+- id: video-conferencing
+  name: "Video Conferencing"
+- id: engagement-analytics
+  name: "Engagement Analytics"
+- id: enterprise
+  name: "Enterprise"
+- id: noise-cancellation
+  name: "Noise Cancellation"
+- id: cloud
+  name: "Cloud"
+- id: meeting-bot
+  name: "Meeting Bot"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: hardware
+  name: "Hardware"
+- id: voice-recorder
+  name: "Voice Recorder"
+- id: conversation-intelligence
+  name: "Conversation Intelligence"
+- id: meeting-minutes
+  name: "Meeting Minutes"
+- id: meeting-management
+  name: "Meeting Management"
+- id: action-items
+  name: "Action Items"
+- id: browser-extension
+  name: "Browser Extension"
+- id: speech-to-text
+  name: "Speech-to-Text"

@@ -1,0 +1,13 @@
+name: "Granola"
+description: "Granola is a macOS AI notetaker that transcribes local audio and augments user-written notes with AI. It is designed for professionals who run many meetings and want private, local-first processing. Pricing is paid after a trial period."
+source_url: "https://granola.ai/"
+category: "AI Notetakers"
+tags:
+  - "ai-powered"
+  - "paid"
+  - "local"
+  - "macos"
+  - "transcription"
+icon_url: "https://icons.duckduckgo.com/ip3/granola.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://granola.ai/>\n"
+updated_at: "2026-11-21 00:54"

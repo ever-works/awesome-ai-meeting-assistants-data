@@ -1,0 +1,13 @@
+name: "Whisper.cpp"
+description: "Whisper.cpp is a C++ port of OpenAI's Whisper model optimized for CPU inference on local devices. It enables offline, self-hosted speech-to-text for meeting recordings and audio files. Open-source and free to use."
+source_url: "https://github.com/ggerganov/whisper.cpp"
+category: "Open-Source & Local"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "local"
+  - "ai-powered"
+  - "speech-to-text"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/ggerganov/whisper.cpp>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:54"

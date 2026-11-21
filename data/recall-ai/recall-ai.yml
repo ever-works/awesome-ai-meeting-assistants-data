@@ -1,0 +1,13 @@
+name: "Recall.ai"
+description: "Recall.ai is a meeting bot API that lets developers send bots to video meetings to capture audio and video streams. It supports platforms like Zoom, Teams, and Google Meet for custom recording and transcription pipelines. Pricing is usage-based paid API access."
+source_url: "https://recall.ai/"
+category: "Meeting Bot APIs"
+tags:
+  - "api"
+  - "ai-powered"
+  - "paid"
+  - "cloud"
+  - "meeting-bot"
+icon_url: "https://icons.duckduckgo.com/ip3/recall.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://recall.ai/>\n"
+updated_at: "2026-11-21 00:54"

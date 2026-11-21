@@ -1,0 +1,13 @@
+name: "Plaud"
+description: "Plaud is an AI-powered hardware recorder that captures phone calls and in-person meetings, then transcribes and summarizes them via an app. It targets professionals who need a dedicated device for conversation documentation. The device and service are sold as a paid product with optional subscription features."
+source_url: "https://plaud.ai/"
+category: "Hardware Recorders"
+tags:
+  - "ai-powered"
+  - "paid"
+  - "hardware"
+  - "transcription"
+  - "voice-recorder"
+icon_url: "https://icons.duckduckgo.com/ip3/plaud.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://plaud.ai/>\n"
+updated_at: "2026-11-21 00:54"

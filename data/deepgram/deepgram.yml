@@ -1,0 +1,13 @@
+name: "Deepgram"
+description: "Deepgram is a speech recognition and transcription API platform for developers and enterprises. It supports real-time and pre-recorded audio transcription with language identification and diarization. Usage-based paid pricing with a free credit tier."
+source_url: "https://deepgram.com/"
+category: "Transcription"
+tags:
+  - "api"
+  - "ai-powered"
+  - "paid"
+  - "freemium"
+  - "speech-to-text"
+icon_url: "https://icons.duckduckgo.com/ip3/deepgram.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://deepgram.com/>\n"
+updated_at: "2026-11-21 00:54"

@@ -1,0 +1,13 @@
+name: "Krisp"
+description: "Krisp provides AI-powered noise cancellation and real-time transcription for online meetings. It is used by remote workers and call centers to improve audio quality and generate call notes. Freemium with paid plans for unlimited transcription."
+source_url: "https://krisp.ai/"
+category: "Transcription"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "free-plan"
+  - "noise-cancellation"
+  - "transcription"
+icon_url: "https://icons.duckduckgo.com/ip3/krisp.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://krisp.ai/>\n"
+updated_at: "2026-11-21 00:54"
